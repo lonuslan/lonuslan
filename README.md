@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning the basics of computer science with the aim of becoming a AI programmer. 🤔 Now I am preparing to take part in 2021 China Postgraduate Examination
+- ⚡ Fun fact：If you interested in learning Mandarin. I have a Chinese teacher's certificate. 😄 I can teach u, but u shall teach Authentic English in the other way around.
+May the god bless u and me. Hopefully we can all move closer to our dreams.
