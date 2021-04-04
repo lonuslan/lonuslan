@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact：If you are interested in learning Mandarin. I have a Chinese teacher's certificate. 😄 I can teach u, but u shall teach me Authentic English in the other way around.
 
 :art: May the god bless u and me. Hopefully we can all move closer to our dreams.
+
+### 我在 GitHub 上的统计
+
+<a title="Hits" target="_blank" href="https://github.com/lonuslan/lonuslan"><img src="https://hits.b3log.org/88250/88250.svg"></a>
