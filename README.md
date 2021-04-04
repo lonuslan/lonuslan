@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 :art: May the god bless u and me. Hopefully we can all move closer to our dreams.
 
-### 我在 GitHub 上的统计
+### My statistics on GitHub
 
 <a title="Hits" target="_blank" href="https://github.com/lonuslan/lonuslan"><img src="https://hits.b3log.org/lonuslan/hits.svg"></a>
