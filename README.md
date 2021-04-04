@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 ### 我在 GitHub 上的统计
 
-<a title="Hits" target="_blank" href="https://github.com/lonuslan/lonuslan"><img src="https://hits.b3log.org/88250/88250.svg"></a>
+<a title="Hits" target="_blank" href="https://github.com/lonuslan/lonuslan"><img src="https://hits.b3log.org/lonuslan/hits.svg"></a>
