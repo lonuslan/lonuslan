@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Inspire to become an outstanding AI engineer. 🤔 Now I am preparing to take part in 2022 China Postgraduate Examination.
+- 🌱 Inspire to become an outstanding AI engineer. 🤔 Now I am preparing to take part in ~~2022 China Postgraduate Examination~~.
 
 - ⚡ Fun fact：Toads want to eat swan meat too!
 
